@@ -56,3 +56,8 @@ Model/Logic: Base, Drone, Resource, ResourcesSpawner.
 Controller/Оркестратор: Bootstrap связывает их вместе.
 
 Сумарно потраченное время: 3 часа 56 минутм 55 секунд
+
+# Демонстрация
+
+https://github.com/user-attachments/assets/5471fd8d-c039-4a68-a028-ce054a6bb8ff
+
